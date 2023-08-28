@@ -1,2 +1,2 @@
 # AnimeWhiz
-A Anime Recommendation Website
+Anime Recommendation Website
